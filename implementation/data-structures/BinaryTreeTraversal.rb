@@ -21,6 +21,10 @@ def in_order_doc
   # left branch
   # -> then current node
   #   -> then right branch
+  #   (If you do this on a binary 
+  #   search tree, you'll print
+  #   the numbers in ascending 
+  #   order.)
   INORDER
 end
 
